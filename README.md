@@ -1,1 +1,1 @@
-# Project1
+# Project1 (WS & WG)
